@@ -1,5 +1,7 @@
 ### Hola soy Alejandro Niño👋
 
+[![Twitter](https://cdn-icons-png.flaticon.com/512/174/174857.pngJ)](https://twitter.com/benbalter)
+
 <!--
 **Alejo-Nino95/Alejo-Nino95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
