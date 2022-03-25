@@ -36,7 +36,7 @@
 
 </br>  
 
-<img src="https://user-images.githubusercontent.com/90222547/160092288-6c1ac6b9-d555-4e04-b90e-eaf27845c22e.png" height="200px" />
+<img src="https://user-images.githubusercontent.com/90222547/160092288-6c1ac6b9-d555-4e04-b90e-eaf27845c22e.png" height="185px" />
 
 <img align="right" src="https://user-images.githubusercontent.com/90222547/160090283-1de65077-0b09-4a82-951a-c8a72c9dfbe3.png" height="200px" />
 
