@@ -44,9 +44,9 @@
 </br>
 </br>
 
-<img src="https://user-images.githubusercontent.com/90222547/160091290-fe96568d-96e1-4d2e-9d0f-b655142cf473.png" height="215px" />
+<img src="https://user-images.githubusercontent.com/90222547/160091290-fe96568d-96e1-4d2e-9d0f-b655142cf473.png" height="180px" />
 
-<img align="right" src="https://user-images.githubusercontent.com/90222547/160091071-3552d68a-dcb7-4693-ad78-5b2c501195ec.png" height="215px" />
+<img align="right" src="https://user-images.githubusercontent.com/90222547/160091071-3552d68a-dcb7-4693-ad78-5b2c501195ec.png" height="180px" />
 </br> 
 <li> Beef Shop </li>
 </br>
@@ -54,17 +54,17 @@
 
 </br>  
 
-<img src="https://user-images.githubusercontent.com/90222547/160094267-10238677-8aca-401d-b652-97827358e3ed.png" height="215px" />
+<img src="https://user-images.githubusercontent.com/90222547/160094267-10238677-8aca-401d-b652-97827358e3ed.png" height="180px" />
 
-<img align="right" src="https://user-images.githubusercontent.com/90222547/160094293-8922ef89-116b-4c49-ba6c-67aa0e718e27.png" height="215px" />
+<img align="right" src="https://user-images.githubusercontent.com/90222547/160094293-8922ef89-116b-4c49-ba6c-67aa0e718e27.png" height="180px" />
 
 </br>  
 </br>
 </br>
 
-<img src="https://user-images.githubusercontent.com/90222547/160094313-f54d416a-7d0c-403e-9a32-3ce9950159c6.png" height="215px" />
+<img src="https://user-images.githubusercontent.com/90222547/160094313-f54d416a-7d0c-403e-9a32-3ce9950159c6.png" height="180px" />
 
-<img align="right" src="https://user-images.githubusercontent.com/90222547/160094341-fb828c70-7bc9-4de7-9880-041cf5ac74e0.png" height="215px" />
+<img align="right" src="https://user-images.githubusercontent.com/90222547/160094341-fb828c70-7bc9-4de7-9880-041cf5ac74e0.png" height="180px" />
 
 <!--
 **Alejo-Nino95/Alejo-Nino95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
