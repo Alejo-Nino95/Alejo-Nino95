@@ -18,8 +18,8 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 
 ### Contactame!
-<a src="https://www.linkedin.com/in/david-alejandro-nino/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a src="https://www.linkedin.com/in/david-alejandro-nino/"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook.png"/></a>
+<a href="https://www.linkedin.com/in/david-alejandro-nino/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/david-alejandro-nino/"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook.png"/></a>
 -----> alejo_120295@hotmail.com
 
 </br>
